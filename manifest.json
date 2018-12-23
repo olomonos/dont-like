@@ -7,6 +7,7 @@
   "description": "I don't like it!",
   "icons": [{
     "src": "/dont-like/images/angry face 14.ico",
-    "sizes": "48x48 72x72 96x96 128x128 256x256"
+    "sizes": "48x48 72x72 96x96 128x128 144x144 256x256",
+    "purpose": "any"
   }]
 }
