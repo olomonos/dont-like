@@ -1,13 +1,18 @@
 {
   "name": "Don't Like",
   "short_name": "Don't Like",
-  "start_url": ".",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#efefef",
   "description": "I don't like it!",
   "icons": [{
-    "src": "/dont-like/images/angry face 14.ico",
+    "src": "./images/angry face 14.ico",
     "sizes": "48x48 72x72 96x96 128x128 144x144 256x256",
+    "purpose": "any"
+  }, {
+    "src": "./images/angry face 14.png",
+    "type": "image/png",
+    "sizes": "192x192",
     "purpose": "any"
   }]
 }
